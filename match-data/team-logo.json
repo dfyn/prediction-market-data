@@ -1,50 +1,18 @@
-[
-    {
-        "IND": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/IND.png"
-    },
-    {
-        "AFG": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/AFG.png"
-    },
-    {
-        "AUS": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/AUS.png"
-    },
-    {
-        "BDESH": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/BDESH.png"
-    },
-    {
-        "ENG": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/ENG.png"
-    },
-    {
-        "IRE": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/IRE.png"
-    },
-    {
-        "NAM": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/NAM.png"
-    },
-    {
-        "NL": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/NL.png"
-    },
-    {
-        "NZ": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/NZ.png"
-    },
-    {
-        "OMN": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/OMN.png"
-    },
-    {
-        "PAK": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/PAK.png"
-    },
-    {
-        "PNG": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/PNG.png"
-    },
-    {
-        "SA": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/SA.png"
-    },
-    {
-        "SCO": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/SCO.png"
-    },
-    {
-        "SL": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/SL.png"
-    },
-    {
-        "WI": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/WI.png"
-    }
-]
+{
+  "IND": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/IND.png",
+  "AFG": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/AFG.png",
+  "AUS": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/AUS.png",
+  "BDESH": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/BDESH.png",
+  "ENG": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/ENG.png",
+  "IRE": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/IRE.png",
+  "NAM": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/NAM.png",
+  "NL": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/NL.png",
+  "NZ": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/NZ.png",
+  "OMN": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/OMN.png",
+  "PAK": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/PAK.png",
+  "PNG": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/PNG.png",
+  "SA": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/SA.png",
+  "SCO": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/SCO.png",
+  "SL": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/SL.png",
+  "WI": "https://github.com/dfyn/prediction-market-data/blob/main/team-images/WI.png"
+}
