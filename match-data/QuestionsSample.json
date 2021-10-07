@@ -1,9 +1,9 @@
 [{
   "match_id": "G1",
-  "question_show_start_time": "16-10-2021 03:30:00",
+  "question_show_start_time": "6-10-2021 03:30:00",
   "bid_start_time": "16-10-2021 09:30:00",
   "bid_end_time": "17-10-2021 15:30:00",
-  "question_show_end_time": "17-10-2021 20:30:00",
+  "question_show_end_time": "11-10-2021 20:30:00",
   "questions": [{
       "question_no": "1",
       "question_id": "G1Q1",
