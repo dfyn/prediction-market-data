@@ -21,7 +21,7 @@
         "team_a_code": "OMN",
         "team_b_code": "PNG",
         "": "",
-        "Final Result": "#N/A"
+        "final_result": "#N/A"
     },
     "0x753c127c3484c7eda1738e310ee10bc73291e31a0dd85d41c1cb6959f1938b3e": {
         "question_no": "2",
@@ -45,7 +45,7 @@
         "team_a_code": "OMN",
         "team_b_code": "PNG",
         "": "",
-        "Final Result": "#N/A"
+        "final_result": "#N/A"
     },
     "0x0418f05d027cc3afd21114b7595336dd07360d1e87410bbbd3c0f81f756ec55c": {
         "question_no": "3",
@@ -69,7 +69,7 @@
         "team_a_code": "OMN",
         "team_b_code": "PNG",
         "": "",
-        "Final Result": "#N/A"
+        "final_result": "#N/A"
     },
     "0x211a987fa88c321d80d18588b5eb4cae3a7f8ac7641a6cdc1e6fe6a3838e9301": {
         "question_no": "4",
@@ -93,7 +93,7 @@
         "team_a_code": "OMN",
         "team_b_code": "PNG",
         "": "",
-        "Final Result": "#N/A"
+        "final_result": "#N/A"
     },
     "0x6f9462844277b15830de27cec3e795d2e87c55b9defe45c217a4afb6e60d8cff": {
         "question_no": "5",
@@ -117,6 +117,6 @@
         "team_a_code": "OMN",
         "team_b_code": "PNG",
         "": "",
-        "Final Result": "#N/A"
+        "final_result": "#N/A"
     }
 }
